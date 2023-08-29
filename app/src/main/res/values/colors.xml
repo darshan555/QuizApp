@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- res/values/colors.xml -->
+    <color name="progressBarColor">#000000</color>
+    <color name="progressBarColorNight">#000000</color>
+    <color name="your_desired_color">#00BCD4</color>
+    <color name="green">#0EE817</color>
+    <color name="red">#F44336</color>
+
+
+</resources>

@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Quiz_App" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorControlActivated">@color/progressBarColor</item> <!-- For progress bar color in activated state -->
+        <item name="colorControlNormal">@color/progressBarColor</item>
+    </style>
+
+    <style name="Theme.Quiz_App" parent="Base.Theme.Quiz_App" />
+
+</resources>
